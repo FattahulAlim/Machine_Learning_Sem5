@@ -1,0 +1,4 @@
+Distance Metric,k,Keterangan,Silhouette (↑),Davies–Bouldin (↓),Calinski–Harabasz (↑),Klaster Terkecil (%),Klaster Terbesar (%),Iterasi (↓)
+Cosine,3,k elbow metrik ini,0.1928,2.6367,1153.86,27.34,38.28,32
+Cosine,4,k dipakai (acuan Euclidean),0.1921,2.5023,1022.91,20.08,30.86,35
+Cosine,5,,0.1816,2.6356,897.01,15.74,26.6,38

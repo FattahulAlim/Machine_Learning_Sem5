@@ -1,0 +1,4 @@
+Distance Metric,k,Keterangan,Silhouette (↑),Davies–Bouldin (↓),Calinski–Harabasz (↑),Klaster Terkecil (%),Klaster Terbesar (%),Iterasi (↓)
+Manhattan,3,k elbow metrik ini,0.1491,2.8348,1041.18,22.35,41.79,4
+Manhattan,4,k dipakai (acuan Euclidean),0.1428,2.7753,818.45,10.25,38.78,10
+Manhattan,5,,0.123,3.2066,721.19,6.17,33.99,10
